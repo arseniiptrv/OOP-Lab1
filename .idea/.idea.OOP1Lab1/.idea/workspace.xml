@@ -13,12 +13,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApp/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="210">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
-                <marker date="1553530693279" expanded="true" signature="35:222" ph="{...}" />
-                <marker date="1553530693279" expanded="true" signature="64:220" ph="{...}" />
-                <marker date="1553530693279" expanded="true" signature="117:214" ph="{...}" />
+                <marker date="1553593569987" expanded="true" signature="35:277" ph="{...}" />
+                <marker date="1553593569987" expanded="true" signature="64:275" ph="{...}" />
+                <marker date="1553593569987" expanded="true" signature="117:269" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,8 +40,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
-    <option name="y" value="355" />
+    <option name="x" value="25" />
+    <option name="y" value="73" />
     <option name="width" value="1396" />
     <option name="height" value="782" />
   </component>
@@ -79,19 +79,19 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApp/bin/Debug/ConsoleApp.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApp/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp/ConsoleApp.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -107,12 +107,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553530221087</updated>
-      <workItem from="1553530224139" duration="1160000" />
+      <workItem from="1553530224139" duration="1470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1160000" />
+    <option name="totallyTimeSpent" value="1470000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -124,12 +124,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="355" width="1396" height="782" extended-state="0" />
+    <frame x="25" y="73" width="1396" height="782" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963072" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -138,6 +139,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.3289855" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -169,12 +171,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ConsoleApp/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
-            <marker date="1553530693279" expanded="true" signature="35:222" ph="{...}" />
-            <marker date="1553530693279" expanded="true" signature="64:220" ph="{...}" />
-            <marker date="1553530693279" expanded="true" signature="117:214" ph="{...}" />
+            <marker date="1553593569987" expanded="true" signature="35:277" ph="{...}" />
+            <marker date="1553593569987" expanded="true" signature="64:275" ph="{...}" />
+            <marker date="1553593569987" expanded="true" signature="117:269" ph="{...}" />
           </folding>
         </state>
       </provider>
