@@ -13,13 +13,41 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApp/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="292">
+              <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
               <folding>
-                <marker date="1553593569987" expanded="true" signature="35:277" ph="{...}" />
-                <marker date="1553593569987" expanded="true" signature="64:275" ph="{...}" />
-                <marker date="1553593569987" expanded="true" signature="117:269" ph="{...}" />
+                <marker date="1553798338291" expanded="true" signature="35:4495" ph="{...}" />
+                <marker date="1553798338291" expanded="true" signature="64:4493" ph="{...}" />
+                <marker date="1553798338291" expanded="true" signature="110:2918" ph="{...}" />
+                <marker date="1553798338291" expanded="true" signature="468:568" ph="/* Console.OutputEncoding = Encoding.Unicode; ... */" />
+                <marker date="1553798338291" expanded="true" signature="607:673" ph="/* ООП. Лабораторна робота 2 ... */" />
+                <marker date="1553798338291" expanded="true" signature="686:1459" ph="/* Console.WriteLine(&quot;Введите вещественное число x: &quot;); ... */" />
+                <marker date="1553798338291" expanded="true" signature="1511:1638" ph="/* ООП. Лабораторна робота 2 ... */" />
+                <marker date="1553798338291" expanded="true" signature="1651:2824" ph="/* int x1; ... */" />
+                <marker date="1553798338291" expanded="true" signature="2946:3262" ph="/* static double expr2(double x, double y, double z) ... */" />
+                <marker date="1553798338291" expanded="true" signature="3362:4469" ph="{...}" />
+                <marker date="1553798338291" expanded="true" signature="3785:3895" ph="{...}" />
+                <marker date="1553798338291" expanded="true" signature="3924:4009" ph="{...}" />
+                <marker date="1553798338291" expanded="true" signature="4037:4220" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98FAC219-BD4E-4536-93D7-6FDA7BD96AB0/da/6c76c8ae/Convert.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="1102" column="6" selection-start-line="1102" selection-start-column="6" selection-end-line="1102" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98FAC219-BD4E-4536-93D7-6FDA7BD96AB0/9b/042eb764/Number.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10440">
+              <caret line="699" column="8" selection-start-line="699" selection-start-column="8" selection-end-line="699" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -36,6 +64,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ConsoleApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98FAC219-BD4E-4536-93D7-6FDA7BD96AB0/da/6c76c8ae/Convert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98FAC219-BD4E-4536-93D7-6FDA7BD96AB0/9b/042eb764/Number.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -45,10 +75,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="44" />
+    <option name="x" value="17" />
     <option name="y" value="23" />
-    <option name="width" value="1396" />
-    <option name="height" value="782" />
+    <option name="width" value="1418" />
+    <option name="height" value="803" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -57,10 +87,10 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -69,6 +99,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,11 +146,13 @@
       <updated>1553530221087</updated>
       <workItem from="1553530224139" duration="2623000" />
       <workItem from="1553597181532" duration="96000" />
+      <workItem from="1553603047432" duration="4256000" />
+      <workItem from="1553688826019" duration="22631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2719000" />
+    <option name="totallyTimeSpent" value="29606000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -130,18 +164,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="23" width="1396" height="782" extended-state="0" />
+    <frame x="17" y="23" width="1418" height="803" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533235" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2565407" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289855" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49926144" visible="true" weight="0.2644163" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3586498" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -151,13 +185,13 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.3289855" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50073856" side_tool="true" weight="0.3289855" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32489452" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32994187" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -178,17 +212,41 @@
     <entry file="file://$PROJECT_DIR$/ConsoleApp/ConsoleApp.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98FAC219-BD4E-4536-93D7-6FDA7BD96AB0/9b/042eb764/Number.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10440">
+          <caret line="699" column="8" selection-start-line="699" selection-start-column="8" selection-end-line="699" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98FAC219-BD4E-4536-93D7-6FDA7BD96AB0/da/6c76c8ae/Convert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="1102" column="6" selection-start-line="1102" selection-start-column="6" selection-end-line="1102" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="292">
+          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
           <folding>
-            <marker date="1553593569987" expanded="true" signature="35:277" ph="{...}" />
-            <marker date="1553593569987" expanded="true" signature="64:275" ph="{...}" />
-            <marker date="1553593569987" expanded="true" signature="117:269" ph="{...}" />
+            <marker date="1553798338291" expanded="true" signature="35:4495" ph="{...}" />
+            <marker date="1553798338291" expanded="true" signature="64:4493" ph="{...}" />
+            <marker date="1553798338291" expanded="true" signature="110:2918" ph="{...}" />
+            <marker date="1553798338291" expanded="true" signature="468:568" ph="/* Console.OutputEncoding = Encoding.Unicode; ... */" />
+            <marker date="1553798338291" expanded="true" signature="607:673" ph="/* ООП. Лабораторна робота 2 ... */" />
+            <marker date="1553798338291" expanded="true" signature="686:1459" ph="/* Console.WriteLine(&quot;Введите вещественное число x: &quot;); ... */" />
+            <marker date="1553798338291" expanded="true" signature="1511:1638" ph="/* ООП. Лабораторна робота 2 ... */" />
+            <marker date="1553798338291" expanded="true" signature="1651:2824" ph="/* int x1; ... */" />
+            <marker date="1553798338291" expanded="true" signature="2946:3262" ph="/* static double expr2(double x, double y, double z) ... */" />
+            <marker date="1553798338291" expanded="true" signature="3362:4469" ph="{...}" />
+            <marker date="1553798338291" expanded="true" signature="3785:3895" ph="{...}" />
+            <marker date="1553798338291" expanded="true" signature="3924:4009" ph="{...}" />
+            <marker date="1553798338291" expanded="true" signature="4037:4220" ph="{...}" />
           </folding>
         </state>
       </provider>
