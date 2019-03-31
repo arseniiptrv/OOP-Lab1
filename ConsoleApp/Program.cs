@@ -66,9 +66,14 @@ namespace ConsoleApp
                 Console.WriteLine("Ви ввели помилкове значення c. Будь ласка, спробуйте ще раз: ");
                 c = Convert.ToInt32(Console.ReadKey());
             }*/
-            
-            
+
+
+            int x1;
+            int x2;
+            int D;
             discriminant(2, 6, 4, out x1, out x2, out D);
+            //discriminant(3, 5, 3, out x1, out x2, out D);
+            //discriminant(3, 6, 3, out x1, out x2, out D);
         }
 
         
@@ -87,23 +92,24 @@ namespace ConsoleApp
 
         static void discriminant(int a, int b, int c, out int x1, out int x2, out int D)
         {
-            D = Convert.ToInt32(Math.Sqrt(b * b - 4 * a * c));          // змінна D - містить значення дискримінанту
+            D = b * b - 4 * a * c;          // змінна D - містить значення дискримінанту
             x1 = 0;                                                         // змінна х1 - містить значення квадратного кореня №1
             x2 = 0;                                                         // змінна х2 - містить значення квадратного кореня №2
             
             if (D > 0)
             {
-                x1 = (-b + D) / (2 * a);
-                x2 = (-b - D) / (2 * a);
+                x1 = Convert.ToInt32((-b + Math.Sqrt(D)) / (2 * a));
+                x2 = Convert.ToInt32((-b - Math.Sqrt(D)) / (2 * a));
             }
             else if (D == 0)
             {
-                x1 = x2 = Convert.ToInt32(-b / (2 * a));
+                x1 = x2 = -b / (2 * a);
             }
             else if (D < 0)
             {
-                Console.WriteLine("Дискримінант має від'ємне значення, квадратні корені обчислити неможливо");
-                // что присвоить в x1 и x2?
+                Console.WriteLine($"Дискримінант має від'ємне значення {D}, квадратні корені обчислити неможливо");
+                // x1 и x2 залишаються у значенні 0. Яке значення вказати? Чи вийти через return?
+                return;
             }
             
             Console.WriteLine($"Значення змінної D: {D}");           //виводжу значення D для перевірки

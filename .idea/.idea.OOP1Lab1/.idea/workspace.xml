@@ -13,22 +13,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApp/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+            <state relative-caret-position="212">
+              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
               <folding>
-                <marker date="1553798338291" expanded="true" signature="35:4495" ph="{...}" />
-                <marker date="1553798338291" expanded="true" signature="64:4493" ph="{...}" />
-                <marker date="1553798338291" expanded="true" signature="110:2918" ph="{...}" />
-                <marker date="1553798338291" expanded="true" signature="468:568" ph="/* Console.OutputEncoding = Encoding.Unicode; ... */" />
-                <marker date="1553798338291" expanded="true" signature="607:673" ph="/* ООП. Лабораторна робота 2 ... */" />
-                <marker date="1553798338291" expanded="true" signature="686:1459" ph="/* Console.WriteLine(&quot;Введите вещественное число x: &quot;); ... */" />
-                <marker date="1553798338291" expanded="true" signature="1511:1638" ph="/* ООП. Лабораторна робота 2 ... */" />
-                <marker date="1553798338291" expanded="true" signature="1651:2824" ph="/* int x1; ... */" />
-                <marker date="1553798338291" expanded="true" signature="2946:3262" ph="/* static double expr2(double x, double y, double z) ... */" />
-                <marker date="1553798338291" expanded="true" signature="3362:4469" ph="{...}" />
-                <marker date="1553798338291" expanded="true" signature="3785:3895" ph="{...}" />
-                <marker date="1553798338291" expanded="true" signature="3924:4009" ph="{...}" />
-                <marker date="1553798338291" expanded="true" signature="4037:4220" ph="{...}" />
+                <marker date="1554062893498" expanded="true" signature="35:4744" ph="{...}" />
+                <marker date="1554062893498" expanded="true" signature="64:4742" ph="{...}" />
+                <marker date="1554062893498" expanded="true" signature="110:3073" ph="{...}" />
+                <marker date="1554062893498" expanded="true" signature="468:568" ph="/* Console.OutputEncoding = Encoding.Unicode; ... */" />
+                <marker date="1554062893498" expanded="true" signature="607:673" ph="/* ООП. Лабораторна робота 2 ... */" />
+                <marker date="1554062893498" expanded="true" signature="686:1459" ph="/* Console.WriteLine(&quot;Введите вещественное число x: &quot;); ... */" />
+                <marker date="1554062893498" expanded="true" signature="1511:1638" ph="/* ООП. Лабораторна робота 2 ... */" />
+                <marker date="1554062893498" expanded="true" signature="1651:2824" ph="/* int x1; ... */" />
+                <marker date="1554062893498" expanded="true" signature="2956:3063" ph="/* discriminant(3, 5, 3, out x1, out x2, out D); ... */" />
+                <marker date="1554062893498" expanded="true" signature="3101:3417" ph="/* static double expr2(double x, double y, double z) ... */" />
+                <marker date="1554062893498" expanded="true" signature="3517:4718" ph="{...}" />
+                <marker date="1554062893498" expanded="true" signature="3912:4078" ph="{...}" />
+                <marker date="1554062893498" expanded="true" signature="4107:4175" ph="{...}" />
+                <marker date="1554062893498" expanded="true" signature="4203:4469" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -75,8 +76,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-61" />
-    <option name="y" value="517" />
+    <option name="x" value="19" />
+    <option name="y" value="71" />
     <option name="width" value="1418" />
     <option name="height" value="803" />
   </component>
@@ -147,12 +148,12 @@
       <workItem from="1553530224139" duration="2623000" />
       <workItem from="1553597181532" duration="96000" />
       <workItem from="1553603047432" duration="4256000" />
-      <workItem from="1553688826019" duration="23391000" />
+      <workItem from="1553688826019" duration="27959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30366000" />
+    <option name="totallyTimeSpent" value="34934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -164,7 +165,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-61" y="517" width="1418" height="803" extended-state="0" />
+    <frame x="19" y="71" width="1418" height="803" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2565407" />
@@ -231,22 +232,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApp/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+        <state relative-caret-position="212">
+          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
           <folding>
-            <marker date="1553798338291" expanded="true" signature="35:4495" ph="{...}" />
-            <marker date="1553798338291" expanded="true" signature="64:4493" ph="{...}" />
-            <marker date="1553798338291" expanded="true" signature="110:2918" ph="{...}" />
-            <marker date="1553798338291" expanded="true" signature="468:568" ph="/* Console.OutputEncoding = Encoding.Unicode; ... */" />
-            <marker date="1553798338291" expanded="true" signature="607:673" ph="/* ООП. Лабораторна робота 2 ... */" />
-            <marker date="1553798338291" expanded="true" signature="686:1459" ph="/* Console.WriteLine(&quot;Введите вещественное число x: &quot;); ... */" />
-            <marker date="1553798338291" expanded="true" signature="1511:1638" ph="/* ООП. Лабораторна робота 2 ... */" />
-            <marker date="1553798338291" expanded="true" signature="1651:2824" ph="/* int x1; ... */" />
-            <marker date="1553798338291" expanded="true" signature="2946:3262" ph="/* static double expr2(double x, double y, double z) ... */" />
-            <marker date="1553798338291" expanded="true" signature="3362:4469" ph="{...}" />
-            <marker date="1553798338291" expanded="true" signature="3785:3895" ph="{...}" />
-            <marker date="1553798338291" expanded="true" signature="3924:4009" ph="{...}" />
-            <marker date="1553798338291" expanded="true" signature="4037:4220" ph="{...}" />
+            <marker date="1554062893498" expanded="true" signature="35:4744" ph="{...}" />
+            <marker date="1554062893498" expanded="true" signature="64:4742" ph="{...}" />
+            <marker date="1554062893498" expanded="true" signature="110:3073" ph="{...}" />
+            <marker date="1554062893498" expanded="true" signature="468:568" ph="/* Console.OutputEncoding = Encoding.Unicode; ... */" />
+            <marker date="1554062893498" expanded="true" signature="607:673" ph="/* ООП. Лабораторна робота 2 ... */" />
+            <marker date="1554062893498" expanded="true" signature="686:1459" ph="/* Console.WriteLine(&quot;Введите вещественное число x: &quot;); ... */" />
+            <marker date="1554062893498" expanded="true" signature="1511:1638" ph="/* ООП. Лабораторна робота 2 ... */" />
+            <marker date="1554062893498" expanded="true" signature="1651:2824" ph="/* int x1; ... */" />
+            <marker date="1554062893498" expanded="true" signature="2956:3063" ph="/* discriminant(3, 5, 3, out x1, out x2, out D); ... */" />
+            <marker date="1554062893498" expanded="true" signature="3101:3417" ph="/* static double expr2(double x, double y, double z) ... */" />
+            <marker date="1554062893498" expanded="true" signature="3517:4718" ph="{...}" />
+            <marker date="1554062893498" expanded="true" signature="3912:4078" ph="{...}" />
+            <marker date="1554062893498" expanded="true" signature="4107:4175" ph="{...}" />
+            <marker date="1554062893498" expanded="true" signature="4203:4469" ph="{...}" />
           </folding>
         </state>
       </provider>
