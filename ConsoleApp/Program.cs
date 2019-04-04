@@ -33,9 +33,16 @@ namespace ConsoleApp
             {
                 Console.WriteLine(arr[e]);
             }*/
-            
-            
-            
+
+
+
+
+
+            //var val = 233;
+
+            Int32 val = new Int32();
+            val = 233;
+            Console.WriteLine(val);
             
             
             
@@ -92,6 +99,12 @@ namespace ConsoleApp
             
             // Викликаю метод дискримінант
             discriminant(a, b, c, out x1, out x2, out D);
+            
+            
+            
+            
+            
+            
         }
 
         
