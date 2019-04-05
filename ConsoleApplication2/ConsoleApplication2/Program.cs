@@ -8,37 +8,32 @@ namespace ConsoleApplication2
         {
             // ООП. Лабораторна робота 2
             // Завдання №3
-
-            int[] array = {};                    // масив, який буде зберігати введені значення
+            int x = 0;                             // счетчик, используется для обращения к эл-ту массива с индексом x в цикле
+            int a = 1;                             // будет хранить введенное значение, распарсенное в число
+            int[] array = new int[100];            // массив, в который буду сохранять введеные значения
             Console.WriteLine("Будь ласка, введіть цілі числа. Для закінчення введення введіть 0");
 
-            string input;
-            int a;                                      // в пер-й будет храниться введенное значение, распарсенное в число
-
-            do
+            while (a != 0)
             {
-                input = Console.ReadLine();
-                int x = 0;                                  // счетчик для массива
-                if (int.TryParse(input, out a))
-                {
-                    array[x] = a;                             // добавляю элемент в массив
-                    x++;                                    // увеличиваю счетчик на 1
-                }
-                else
+                var input = Console.ReadLine();
+                int.TryParse(input, out a);
+                
+                while (!int.TryParse(input, out a))
                 {
                     Console.WriteLine("Ви ввели помилкове значення. Будь ласка, спробуйте ще раз: ");
-                    //input = Console.ReadLine();
+                    input = Console.ReadLine();
                 }
-            } 
-            while (a == 0);
 
+                array[x] = a;
+                x++;
+            }
             
             int pairNumb = 0;                  // кількість парних чисел
             int oddNumb = 0;                   // кількість непарних чисел
             int posNumb = 0;                   // кількість додатних чисел
             int negNumb = 0;                   // кількість від'ємних чисел
             
-            //Numbers(ref pairNumb, ref oddNumb, ref posNumb, ref negNumb, array);          // виклик методу Numbers
+            Numbers(ref pairNumb, ref oddNumb, ref posNumb, ref negNumb, array);          // виклик методу Numbers
         }
 
         
