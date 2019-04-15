@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14e7bdfe-1d3a-4597-901d-4aee093599e4" name="Default Changelist" comment="" />
+    <list default="true" id="14e7bdfe-1d3a-4597-901d-4aee093599e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.OOP1Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.OOP1Lab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleApp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApplication2/Program.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,23 +18,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApplication2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="-15">
+              <caret line="73" column="30" lean-forward="true" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
               <folding>
-                <marker date="1554478632476" expanded="true" signature="44:2755" ph="{...}" />
-                <marker date="1554478632476" expanded="true" signature="73:2753" ph="{...}" />
-                <marker date="1554478632476" expanded="true" signature="126:1633" ph="{...}" />
-                <marker date="1554478632476" expanded="true" signature="149:204" ph="/* ООП. Лабораторна робота 2 ... */" />
-                <marker date="1554478632476" expanded="true" signature="658:728" ph="/* string input; ... */" />
-                <marker date="1554478632476" expanded="true" signature="756:1183" ph="{...}" />
-                <marker date="1554478632476" expanded="true" signature="931:1117" ph="{...}" />
-                <marker date="1554478632476" expanded="true" signature="1776:2747" ph="{...}" />
-                <marker date="1554478632476" expanded="true" signature="1823:2440" ph="{...}" />
-                <marker date="1554478632476" expanded="true" signature="1876:1981" ph="{...}" />
-                <marker date="1554478632476" expanded="true" signature="2025:2129" ph="{...}" />
-                <marker date="1554478632476" expanded="true" signature="2173:2278" ph="{...}" />
-                <marker date="1554478632476" expanded="true" signature="2322:2426" ph="{...}" />
+                <marker date="1554810931872" expanded="true" signature="44:4797" ph="{...}" />
+                <marker date="1554810931872" expanded="true" signature="73:4795" ph="{...}" />
+                <marker date="1554810931872" expanded="true" signature="126:3124" ph="{...}" />
+                <marker date="1554810931872" expanded="true" signature="149:204" ph="/* ООП. Лабораторна робота 2 ... */" />
+                <marker date="1554810931872" expanded="true" signature="217:1688" ph="/* int x = 0;                             // счетчик, используется для обращения к эл-ту массива с индексом x в ц ... */" />
+                <marker date="1554810931872" expanded="true" signature="1875:2405" ph="/* Console.Write(&quot;Для обчислення факторіалу введіть значення: &quot;); ... */" />
+                <marker date="1554810931872" expanded="true" signature="2538:3066" ph="/* Console.Write(&quot;Для обчислення фібоначчі введіть номер послідовності: &quot;); ... */" />
+                <marker date="1554810931872" expanded="true" signature="3285:4190" ph="{...}" />
+                <marker date="1554810931872" expanded="true" signature="3332:3883" ph="{...}" />
+                <marker date="1554810931872" expanded="true" signature="3463:3645" ph="{...}" />
+                <marker date="1554810931872" expanded="true" signature="3681:3829" ph="{...}" />
+                <marker date="1554810931872" expanded="true" signature="4323:4479" ph="{...}" />
+                <marker date="1554810931872" expanded="true" signature="4585:4789" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98FAC219-BD4E-4536-93D7-6FDA7BD96AB0/3d/0e572668/Int32.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -40,6 +54,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98FAC219-BD4E-4536-93D7-6FDA7BD96AB0/3d/0e572668/Int32.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleApplication2/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -49,9 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="38" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="22" />
+    <option name="y" value="23" />
     <option name="width" value="1418" />
     <option name="height" value="803" />
   </component>
@@ -64,8 +79,8 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,12 +134,13 @@
       <option name="presentableId" value="Default" />
       <updated>1554386757344</updated>
       <workItem from="1554386759472" duration="6874000" />
-      <workItem from="1554408730761" duration="8955000" />
+      <workItem from="1554408730761" duration="42866000" />
+      <workItem from="1555349737134" duration="56000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15829000" />
+    <option name="totallyTimeSpent" value="49796000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -136,17 +152,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="38" width="1418" height="803" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="833" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536337" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25726745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18565401" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -183,23 +198,30 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ConsoleApplication2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="-15">
+          <caret line="73" column="30" lean-forward="true" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
           <folding>
-            <marker date="1554478632476" expanded="true" signature="44:2755" ph="{...}" />
-            <marker date="1554478632476" expanded="true" signature="73:2753" ph="{...}" />
-            <marker date="1554478632476" expanded="true" signature="126:1633" ph="{...}" />
-            <marker date="1554478632476" expanded="true" signature="149:204" ph="/* ООП. Лабораторна робота 2 ... */" />
-            <marker date="1554478632476" expanded="true" signature="658:728" ph="/* string input; ... */" />
-            <marker date="1554478632476" expanded="true" signature="756:1183" ph="{...}" />
-            <marker date="1554478632476" expanded="true" signature="931:1117" ph="{...}" />
-            <marker date="1554478632476" expanded="true" signature="1776:2747" ph="{...}" />
-            <marker date="1554478632476" expanded="true" signature="1823:2440" ph="{...}" />
-            <marker date="1554478632476" expanded="true" signature="1876:1981" ph="{...}" />
-            <marker date="1554478632476" expanded="true" signature="2025:2129" ph="{...}" />
-            <marker date="1554478632476" expanded="true" signature="2173:2278" ph="{...}" />
-            <marker date="1554478632476" expanded="true" signature="2322:2426" ph="{...}" />
+            <marker date="1554810931872" expanded="true" signature="44:4797" ph="{...}" />
+            <marker date="1554810931872" expanded="true" signature="73:4795" ph="{...}" />
+            <marker date="1554810931872" expanded="true" signature="126:3124" ph="{...}" />
+            <marker date="1554810931872" expanded="true" signature="149:204" ph="/* ООП. Лабораторна робота 2 ... */" />
+            <marker date="1554810931872" expanded="true" signature="217:1688" ph="/* int x = 0;                             // счетчик, используется для обращения к эл-ту массива с индексом x в ц ... */" />
+            <marker date="1554810931872" expanded="true" signature="1875:2405" ph="/* Console.Write(&quot;Для обчислення факторіалу введіть значення: &quot;); ... */" />
+            <marker date="1554810931872" expanded="true" signature="2538:3066" ph="/* Console.Write(&quot;Для обчислення фібоначчі введіть номер послідовності: &quot;); ... */" />
+            <marker date="1554810931872" expanded="true" signature="3285:4190" ph="{...}" />
+            <marker date="1554810931872" expanded="true" signature="3332:3883" ph="{...}" />
+            <marker date="1554810931872" expanded="true" signature="3463:3645" ph="{...}" />
+            <marker date="1554810931872" expanded="true" signature="3681:3829" ph="{...}" />
+            <marker date="1554810931872" expanded="true" signature="4323:4479" ph="{...}" />
+            <marker date="1554810931872" expanded="true" signature="4585:4789" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98FAC219-BD4E-4536-93D7-6FDA7BD96AB0/3d/0e572668/Int32.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
         </state>
       </provider>
     </entry>
